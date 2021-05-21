@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mg3TJrQpOMYM6ky4Rx8hnVICSw9wOb8v0+Bq1Azc72id5egdeg+lKjuPu3safap2Q/MN2vjt1cbOro04VlkPFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Users\\sziegler\\Projects for Learning\\C#DesignPatterns\\CSharpDesignPatterns\\Strategy\\02\\demos\\Demo 1 - Strategy Pattern First Look\\Start_Here\\Strategy Pattern First Look.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sziegler\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\sziegler\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\sziegler\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\sziegler\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
