@@ -11,14 +11,15 @@ namespace StrategyDesignPattern.Business.Strategies.SalesTax
     {
         public decimal GetTaxFor(Order order)
         {
-            switch (ShippingDetails.Destinationstate.ToLowerInvariant())
+            var totalPrice = order.TotalPrice;
+
+            switch (order.ShippingDetails.DestinationState.ToLowerInvariant())
             {
-                case "la": return TotalPrice * 0.095m;
-                case "ny": return TotalPrice * 0.04m;
-                case "nyc": return TotalPrice * 0.045m;
+                case "la": return totalPrice * 0.095m;
+                case "ny": return totalPrice * 0.04m;
+                case "nyc": return totalPrice * 0.045m;
                 default: return 0m;
             }
         }
-
     }
 }

@@ -1,0 +1,16 @@
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.csprojAssemblyReference.cache
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.AssemblyInfoInputs.cache
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.AssemblyInfo.cs
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.csproj.CoreCompileInputs.cache
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.exe
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.deps.json
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.runtimeconfig.json
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.runtimeconfig.dev.json
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.dll
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\bin\Debug\net5.0\ref\StrategyDesignPattern.dll
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.pdb
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.dll
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\obj\Debug\net5.0\ref\StrategyDesignPattern.dll
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.pdb
+D:\Workspace\Users\sziegler\Projects for Learning\C#DesignPatterns\CSharpDesignPatterns\Strategy\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.genruntimeconfig.cache

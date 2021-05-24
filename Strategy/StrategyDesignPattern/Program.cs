@@ -1,4 +1,5 @@
 ﻿using StrategyDesignPattern.Business.Models;
+using StrategyDesignPattern.Business.Strategies.SalesTax;
 using System;
 
 namespace StrategyDesignPattern
@@ -15,6 +16,20 @@ namespace StrategyDesignPattern
                     DestinationCountry = "Sweden"
                 }
             };
+
+
+            var destination = order.ShippingDetails.DestinationCountry.ToLowerInvariant();
+
+            if (destination == "sweden")
+            {
+                order.SalesTaxStrategy = new SwedenSalesTaxStrategy();
+            }
+
+            else if (destination == "us")
+            {
+                order.SalesTaxStrategy = new UsSalesTaxStrategy();
+            }
+
 
             order.LineItems.Add(
                 new Item("CSHARO_SMORGASBORD",
